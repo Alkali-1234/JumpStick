@@ -1,0 +1,7 @@
+main: me.Alkali.JumpingStick.Main
+name: JumpingStick
+version: 1.0.0
+author: Alkali1234
+
+commands:
+  JumpStick:
